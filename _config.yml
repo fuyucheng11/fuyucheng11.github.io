@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "fuyucheng"
-description              : "Yucheng Fu's web page. "
+title                    : "Yucheng Fu"
+description              : "1st year PhD student "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
