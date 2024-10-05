@@ -34,7 +34,9 @@ My research interest includes neural machine translation and computer vision. I 
 [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24)  
 
 **Yucheng Fu**, Tianhao Wang<sup>*</sup>
+
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Secure-sampling-benchmark))
+
 </div>
 </div>
 
@@ -44,7 +46,9 @@ My research interest includes neural machine translation and computer vision. I 
 [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23) 
 
 **Yucheng Fu**, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang<sup>*</sup>
+
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha))
+
 </div>
 </div>
 
