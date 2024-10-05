@@ -22,11 +22,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 Research Interests
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Research Interests
+My research interest includes but not limited to:
 
-# 📝 Publications 
+- differential privacy, including
+  - the intersection of differential privacy and secure multi-party computation
+  - machine learning privacy
+- trustworthy AI
+
+
+# Publications 
 
 
 - **Yucheng Fu**, Tianhao Wang<sup>*</sup>, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
@@ -39,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 
 - *2023* **National Scholarship (rank 1/189 in school, top 0.2\% nationwide)**, Sichuan University.
@@ -50,7 +55,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022* **National 1st Prize**, The 8th China International College Students “Internet+” Internet Innovation and Entrepreneurship Competition. Ministry of Education of the People's Republic of China.
 - *2022* **National Level (top 10\% in school)**, Sichuan Universiy.
 
-# 📖 Educations
+# Educations
 - *2020.09 - 2024.06 (now)*, University of Virginia. 
 - *2020.09 - 2024.06*, Sichuan University. 
 
