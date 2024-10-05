@@ -28,24 +28,32 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">CVPR 2016</div>
+            <img src='images/500x300.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24)  
+        **Yucheng Fu**, Tianhao Wang<sup>*</sup>
+    </div>
+</div> 
 
-[Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24)  
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">CVPR 2016</div>
+            <img src='images/500x300.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23)  
+        **Yucheng Fu**, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang<sup>*</sup>
+    </div>
+</div> <!-- 闭合了第二个 paper-box -->
 
-**Yucheng Fu**, Tianhao Wang<sup>*</sup>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23)  
-
-**Yucheng Fu**, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang<sup>*</sup>
-
-
-</div>
-</div>
 
 
 
