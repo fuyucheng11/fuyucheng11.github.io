@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yucheng Fu. I am a first-year PhD student at the University of Virginia, advised by Prof.Tianhao Wang.
+My name is Yucheng Fu. I am a first-year PhD student at the University of Virginia, advised by [Prof.Tianhao Wang](https://tianhao.wang/).
 
 I received my B.Eng in Cyber Security from Sichuan University in 2024.
 
