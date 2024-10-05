@@ -47,13 +47,13 @@ My research interest includes but not limited to:
 # Honors and Awards
 
 
-- *2023* **National Scholarship (rank 1/189 in school, top 0.2\% nationwide)**, Sichuan University.
+- *2023* **National Scholarship (rank 1/189 in school, top 0.2% nationwide)**, Sichuan University.
 - *2023* **The First Level Scholarship**, Sichuan University.
 - *2023* **Outstanding Undergraduate Graduates**, Sichuan University.
 - *2023* **Outstanding Student**, Sichuan University.
 - *2022* **The Second Level Scholarship (rank 6/189 in school)**, Sichuan University.
 - *2022* **National 1st Prize**, The 8th China International College Students “Internet+” Internet Innovation and Entrepreneurship Competition. Ministry of Education of the People's Republic of China.
-- *2022* **National Level (top 10\% in school)**, Sichuan Universiy.
+- *2022* **National Level (top 10% in school)**, Sichuan Universiy.
 
 # Educations
 - *2020.09 - 2024.06 (now)*, University of Virginia. 
