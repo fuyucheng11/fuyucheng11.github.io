@@ -56,7 +56,7 @@ My research interest includes but not limited to:
 - *2022* **National Level (top 10% in school)**, Sichuan Universiy.
 
 # Educations
-- *2020.09 - 2024.06 (now)*, University of Virginia. 
+- *2024.09 - now*, University of Virginia. 
 - *2020.09 - 2024.06*, Sichuan University. 
 
 
