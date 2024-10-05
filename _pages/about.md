@@ -42,6 +42,8 @@ My research interest includes neural machine translation and computer vision. I 
 **Yucheng Fu**, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang<sup>*</sup>
 
 
+</div>
+</div>
 
 
 
