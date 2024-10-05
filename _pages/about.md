@@ -30,11 +30,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 - **Yucheng Fu**, Tianhao Wang<sup>*</sup>, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
-[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Secure-sampling-benchmark))
+[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Secure-sampling-benchmark)).
 
 
 - **Yucheng Fu**, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang<sup>*</sup>, [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23),
-[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha))
+[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha)).
 
 
 
