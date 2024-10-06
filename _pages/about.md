@@ -53,7 +53,7 @@ My research interest includes but not limited to:
 - *2023* **Outstanding Student**, Sichuan University.
 - *2022* **The Second Level Scholarship (rank 6/189 in school)**, Sichuan University.
 - *2022* **National 1st Prize**, The 8th China International College Students “Internet+” Internet Innovation and Entrepreneurship Competition. Ministry of Education of the People's Republic of China.
-- *2022* **National Level (top 10% in school)**, Sichuan Universiy.
+- *2022* **National Level (top 10% in school)**, The 2022 National Training Program of Innovation and Entrepreneurship for Undergraduates.
 
 # Educations
 - *2024.09 - now*, University of Virginia. 
