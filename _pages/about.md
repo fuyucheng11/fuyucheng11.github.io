@@ -33,11 +33,13 @@ My research interest includes but not limited to:
 
 # Publications 
 
+"*" means equal contribution
+
 - **Yucheng Fu**, Tianyao Gu, Elaine Shi, Tianhao Wang<sup>*</sup>, Distributed Synthesis of Differentially Private Tabular Datasets(USENIX Security'26)
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC]([https://github.com/yuchengxj/Defense-for-LCSCaptcha)](https://zenodo.org/records/18249228)).
 
 
-- Guoheng Sun, **Yucheng Fu**, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang<sup>*</sup>, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
+- Guoheng Sun<sup>*</sup>, **Yucheng Fu**<sup>*</sup>, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang<sup>*</sup>, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha)).
 
 - **Yucheng Fu**, Tianhao Wang<sup>*</sup>, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
