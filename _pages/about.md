@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yucheng Fu. I am a first-year PhD student at the University of Virginia, advised by [Prof.Tianhao Wang](https://tianhao.wang/).
+My name is Yucheng Fu. I am a second-year PhD student at the University of Virginia, advised by [Prof.Tianhao Wang](https://tianhao.wang/).
 
 I received my B.Eng in Cyber Security from Sichuan University in 2024.
 
@@ -33,6 +33,12 @@ My research interest includes but not limited to:
 
 # Publications 
 
+- **Yucheng Fu**, Tianyao Gu, Elaine Shi, Tianhao Wang<sup>*</sup>, Distributed Synthesis of Differentially Private Tabular Datasets(USENIX Security'26)
+[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC]([https://github.com/yuchengxj/Defense-for-LCSCaptcha)](https://zenodo.org/records/18249228)).
+
+
+- Guoheng Sun, **Yucheng Fu**, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang<sup>*</sup>, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
+[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha)).
 
 - **Yucheng Fu**, Tianhao Wang<sup>*</sup>, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Secure-sampling-benchmark)).
