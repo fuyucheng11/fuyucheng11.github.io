@@ -35,18 +35,18 @@ My research interest includes but not limited to:
 
 "*" means equal contribution
 
-- **Yucheng Fu**, Tianyao Gu, Elaine Shi, Tianhao Wang<sup>*</sup>, Distributed Synthesis of Differentially Private Tabular Datasets(USENIX Security'26)
+- **Yucheng Fu**, Tianyao Gu, Elaine Shi, Tianhao Wang, Distributed Synthesis of Differentially Private Tabular Datasets(USENIX Security'26)
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC]([https://github.com/yuchengxj/Defense-for-LCSCaptcha)](https://zenodo.org/records/18249228)).
 
 
-- Guoheng Sun<sup>*</sup>, **Yucheng Fu**<sup>*</sup>, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang<sup>*</sup>, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
+- Guoheng Sun<sup>*</sup>, **Yucheng Fu**<sup>*</sup>, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha)).
 
-- **Yucheng Fu**, Tianhao Wang<sup>*</sup>, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
+- **Yucheng Fu**, Tianhao Wang, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Secure-sampling-benchmark)).
 
 
-- **Yucheng Fu**, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang<sup>*</sup>, [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23),
+- **Yucheng Fu**, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang, [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23),
 [<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha)).
 
 
