@@ -33,21 +33,21 @@ My research interest includes but not limited to:
 
 # Publications 
 
-"*" means equal contribution
+- Yucheng Fu, Tianyao Gu, Yiping Liu, Elaine Shi, Yue Yang, Xuanye Zheng, Multi-Party Distributed Point Functions, Revisited (TCC'26).
 
-- **Yucheng Fu**, Tianyao Gu, Elaine Shi, Tianhao Wang, Distributed Synthesis of Differentially Private Tabular Datasets(USENIX Security'26)
-[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC]([https://github.com/yuchengxj/Defense-for-LCSCaptcha)](https://zenodo.org/records/18249228)).
-
-
-- Guoheng Sun<sup>*</sup>, **Yucheng Fu**<sup>*</sup>, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
-[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha)).
-
-- **Yucheng Fu**, Tianhao Wang, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
-[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Secure-sampling-benchmark)).
+- Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang, Distributed Synthesis of Differentially Private Tabular Datasets (USENIX Security'26), Distinguished Paper Award Runner-up.
+[<u>Code</u>](https://zenodo.org/records/18249228).
 
 
-- **Yucheng Fu**, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang, [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23),
-[<u>Code</u>]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/yuchengxj/Defense-for-LCSCaptcha)).
+- Guoheng Sun, Yucheng Fu, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
+[<u>Code</u>](https://github.com/yuchengxj/Defense-for-LCSCaptcha).
+
+- Yucheng Fu, Tianhao Wang, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
+[<u>Code</u>](https://github.com/yuchengxj/Secure-sampling-benchmark).
+
+
+- Yucheng Fu, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang, [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23),
+[<u>Code</u>](https://github.com/yuchengxj/Defense-for-LCSCaptcha).
 
 
 
@@ -55,6 +55,7 @@ My research interest includes but not limited to:
 # Honors and Awards
 
 
+- *2026* **USENIX Security 2026 Distinguished Paper Award Runner-up**.
 - *2023* **National Scholarship (rank 1/189 in school, top 0.2% nationwide)**, Sichuan University.
 - *2023* **The First Level Scholarship**, Sichuan University.
 - *2023* **Outstanding Undergraduate Graduates**, Sichuan University.
@@ -66,5 +67,3 @@ My research interest includes but not limited to:
 # Educations
 - *2024.09 - now*, University of Virginia. 
 - *2020.09 - 2024.06*, Sichuan University. 
-
-
