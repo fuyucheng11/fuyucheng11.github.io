@@ -38,7 +38,7 @@ My research interest includes but not limited to:
 - Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang, [Distributed Synthesis of Differentially Private Tabular Datasets](https://www.usenix.org/conference/usenixsecurity26/presentation/fu) (USENIX Security'26), Distinguished Paper Award Runner-up.
 [<u>Code</u>](https://zenodo.org/records/18249228).
 
-- Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang, [Towards Vertically Distributed Differentially Private Synthetic Data Generation](https://tpdp.journalprivacyconfidentiality.org/2025/pdf/fu.pdf) (TPDP'25).
+- Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang, Towards Vertically Distributed Differentially Private Synthetic Data Generation (TPDP'25).
 
 
 - Guoheng Sun, Yucheng Fu, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
