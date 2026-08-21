@@ -55,7 +55,7 @@ My research interest includes but not limited to:
 # Honors and Awards
 
 
-- *2026* **USENIX Security 2026 Distinguished Paper Award Runner-up**.
+- *2026* **[USENIX Security 2026 Distinguished Paper Award Runner-up](https://www.usenix.org/sites/default/files/sec26_runners_up.pdf)** (22/376 accepted papers).
 - *2023* **National Scholarship (rank 1/189 in school, top 0.2% nationwide)**, Sichuan University.
 - *2023* **The First Level Scholarship**, Sichuan University.
 - *2023* **Outstanding Undergraduate Graduates**, Sichuan University.
