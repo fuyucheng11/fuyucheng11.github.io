@@ -35,7 +35,7 @@ My research interest includes but not limited to:
 
 - Yucheng Fu, Tianyao Gu, Yiping Liu, Elaine Shi, Yue Yang, Xuanye Zheng, Multi-Party Distributed Point Functions, Revisited (TCC'26).
 
-- Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang, Distributed Synthesis of Differentially Private Tabular Datasets (USENIX Security'26), Distinguished Paper Award Runner-up.
+- Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang, [Distributed Synthesis of Differentially Private Tabular Datasets](https://www.usenix.org/conference/usenixsecurity26/presentation/fu) (USENIX Security'26), Distinguished Paper Award Runner-up.
 [<u>Code</u>](https://zenodo.org/records/18249228).
 
 
