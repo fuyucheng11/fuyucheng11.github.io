@@ -41,14 +41,14 @@ My research interest includes but not limited to:
 - Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang, Towards Vertically Distributed Differentially Private Synthetic Data Generation (TPDP'25).
 
 
-- Guoheng Sun, Yucheng Fu, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041)(TDSC),
+- Guoheng Sun, Yucheng Fu, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041) (TDSC),
 [<u>Code</u>](https://github.com/yuchengxj/Defense-for-LCSCaptcha).
 
-- Yucheng Fu, Tianhao Wang, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667)(CCS'24),
+- Yucheng Fu, Tianhao Wang, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667) (CCS'24),
 [<u>Code</u>](https://github.com/yuchengxj/Secure-sampling-benchmark).
 
 
-- Yucheng Fu, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang, [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)(IJCNN'23),
+- Yucheng Fu, Guoheng Sun, Han Yang, Juntian Huang, Haizhou Wang, [Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881) (IJCNN'23),
 [<u>Code</u>](https://github.com/yuchengxj/Defense-for-LCSCaptcha).
 
 
