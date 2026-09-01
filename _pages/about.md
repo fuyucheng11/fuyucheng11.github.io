@@ -33,7 +33,7 @@ My research interest includes but not limited to:
 
 # Publications 
 
-- Elaine Shi, Tianyao Gu, Xuanye Zheng, Yue Yang, Yiping Liu, **Yucheng Fu**, Multi-Party Distributed Point Functions, Revisited (TCC'26). (Randomized Author Order)
+- Elaine Shi, Tianyao Gu, Xuanye Zheng, Yue Yang, Yiping Liu, **Yucheng Fu**, Multi-Party Distributed Point Functions, Revisited (TCC'26). (randomized author order)
 
 - **Yucheng Fu**, Tianhao Wang, [Revisiting Continuous Noise Sampling for Multi-Party Differential Privacy](https://arxiv.org/abs/2608.27766) (preprint, 2026).
 
@@ -44,7 +44,7 @@ My research interest includes but not limited to:
 
 
 - Guoheng Sun<sup>&#42;</sup>, **Yucheng Fu**<sup>&#42;</sup>, Han Yang, Juntian Huang, Ruimei Zhang, Haizhou Wang, [Enhancing the Security of Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/11288041) (TDSC),
-[<u>Code</u>](https://github.com/yuchengxj/Defense-for-LCSCaptcha). (<sup>&#42;</sup> equal contribution.)
+[<u>Code</u>](https://github.com/yuchengxj/Defense-for-LCSCaptcha). (<sup>&#42;</sup> equal contribution)
 
 - **Yucheng Fu**, Tianhao Wang, [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/abs/2409.10667) (CCS'24),
 [<u>Code</u>](https://github.com/yuchengxj/Secure-sampling-benchmark).
