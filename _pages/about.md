@@ -33,7 +33,7 @@ My research interest includes but not limited to:
 
 # Publications 
 
-- Elaine Shi, Tianyao Gu, Xuanye Zheng, Yue Yang, Yiping Liu, **Yucheng Fu**, Multi-Party Distributed Point Functions, Revisited (TCC'26). (randomized author order)
+- Elaine Shi, Tianyao Gu, Xuanye Zheng, Yue Yang, Yiping Liu, **Yucheng Fu**, [Multi-Party Distributed Point Functions, Revisited](https://eprint.iacr.org/2026/1970) (TCC'26). (randomized author order)
 
 - **Yucheng Fu**, Tianhao Wang, [Revisiting Continuous Noise Sampling for Multi-Party Differential Privacy](https://arxiv.org/abs/2608.27766) (preprint, 2026).
 
